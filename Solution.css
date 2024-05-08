@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+  body {
+    
+  }
+}
+
+.nav-bar{
+  display: flex;
+  position: fixed;
+  top: 0;
+}
